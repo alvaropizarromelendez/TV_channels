@@ -1,135 +1,135 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="La Tele" tvg-name="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/LaTele_Per%C3%BA_2018_Logo.png" group-title="TELEVISIÓN", La Tele
+#EXTINF:-1 tvg-id="La Tele" tvg-name="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/LaTele_Per%C3%BA_2018_Logo.png" group-title="TELEVISIÓN",La Tele
 http://bantel.iptvperu.tv:1935/transcoderip/latele_t1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Latina Televisión" tvg-name="Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1842px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="TELEVISIÓN", Latina Televisión
+#EXTINF:-1 tvg-id="Latina Televisión" tvg-name="Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1842px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="TELEVISIÓN",Latina Televisión
 http://190.119.178.46:8000/play/a017
-#EXTINF:-1 tvg-id="Movistar Deportes" tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="TELEVISIÓN", Movistar Deportes
+#EXTINF:-1 tvg-id="Movistar Deportes" tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="TELEVISIÓN",Movistar Deportes
 http://190.116.90.43:8000/play/a00x
-#EXTINF:-1 tvg-id="América Televisión" tvg-name="América Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1467px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="TELEVISIÓN", América Televisión
+#EXTINF:-1 tvg-id="América Televisión" tvg-name="América Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1467px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="TELEVISIÓN",América Televisión
 http://190.108.85.20:9999/play/a00q
-#EXTINF:-1 tvg-id="Panamericana Televisión" tvg-name="Panamericana Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg/1889px-Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg.png" group-title="TELEVISIÓN", Panamericana Televisión
+#EXTINF:-1 tvg-id="Panamericana Televisión" tvg-name="Panamericana Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg/1889px-Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg.png" group-title="TELEVISIÓN",Panamericana Televisión
 http://190.119.178.46:8000/play/a01i
-#EXTINF:-1 tvg-id="Movistar Plus" tvg-name="Movistar Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="TELEVISIÓN", Movistar Plus
+#EXTINF:-1 tvg-id="Movistar Plus" tvg-name="Movistar Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="TELEVISIÓN",Movistar Plus
 http://nxt.plus:8080/Belen/1234/191173
-#EXTINF:-1 tvg-id="TV Perú" tvg-name="TV Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/2560px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="TELEVISIÓN", TV Perú
+#EXTINF:-1 tvg-id="TV Perú" tvg-name="TV Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/2560px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="TELEVISIÓN",TV Perú
 http://190.119.178.46:8000/play/a01j
-#EXTINF:-1 tvg-id="Canal N" tvg-name="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="TELEVISIÓN", Canal N
+#EXTINF:-1 tvg-id="Canal N" tvg-name="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="TELEVISIÓN",Canal N
 http://45.71.252.67:8000/play/a0fi
-#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="TELEVISIÓN", ATV
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="TELEVISIÓN",ATV
 http://190.119.178.46:8000/play/a01k
-#EXTINF:-1 tvg-id="RPP TV" tvg-name="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Radio_Programas_del_Per%C3%BA_logo.svg/2048px-Radio_Programas_del_Per%C3%BA_logo.svg.png" group-title="TELEVISIÓN", RPP TV
+#EXTINF:-1 tvg-id="RPP TV" tvg-name="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Radio_Programas_del_Per%C3%BA_logo.svg/2048px-Radio_Programas_del_Per%C3%BA_logo.svg.png" group-title="TELEVISIÓN",RPP TV
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330726
-#EXTINF:-1 tvg-id="Congreso TV" tvg-name="Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Congreso_TV.png" group-title="TELEVISIÓN", Congreso TV
+#EXTINF:-1 tvg-id="Congreso TV" tvg-name="Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Congreso_TV.png" group-title="TELEVISIÓN",Congreso TV
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1776729332&_cdn_timestamp=1708390913&_cdn_token=4858a953e2b99566d55566df198e96363e014073
-#EXTINF:-1 tvg-id="Justicia TV" tvg-name="Justicia TV" tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="TELEVISIÓN", Justicia TV
+#EXTINF:-1 tvg-id="Justicia TV" tvg-name="Justicia TV" tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="TELEVISIÓN",Justicia TV
 http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Global Televisión" tvg-name="Global Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="TELEVISIÓN", Global Televisión
+#EXTINF:-1 tvg-id="Global Televisión" tvg-name="Global Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="TELEVISIÓN",Global Televisión
 http://191.97.58.41:8001/play/a00d
-#EXTINF:-1 tvg-id="Gol Perú" tvg-name="Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" group-title="TELEVISIÓN", Gol Perú
+#EXTINF:-1 tvg-id="Gol Perú" tvg-name="Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" group-title="TELEVISIÓN",Gol Perú
 http://190.108.85.20:9999/play/a00r
-#EXTINF:-1 tvg-id="PBO Digital" tvg-name="PBO Digital" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="TELEVISIÓN", PBO Digital
+#EXTINF:-1 tvg-id="PBO Digital" tvg-name="PBO Digital" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="TELEVISIÓN",PBO Digital
 https://ythls.armelin.one/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
-#EXTINF:-1 tvg-id="Willax Televisión" tvg-name="Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="TELEVISIÓN", Willax Televisión
-https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
-#EXTINF:-1 tvg-id="Karibeña TV" tvg-name="Karibeña TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logokaribe%C3%B1atv.png" group-title="TELEVISIÓN", Karibeña TV
+#EXTINF:-1 tvg-id="Willax Televisión" tvg-name="Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="TELEVISIÓN",Willax Televisión
+https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+#EXTINF:-1 tvg-id="Karibeña TV" tvg-name="Karibeña TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logokaribe%C3%B1atv.png" group-title="TELEVISIÓN",Karibeña TV
 http://bantel.iptvperu.tv:1935/transcoderip/karibena_t1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Exitosa TV" tvg-name="Exitosa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="TELEVISIÓN", Exitosa TV
+#EXTINF:-1 tvg-id="Exitosa TV" tvg-name="Exitosa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="TELEVISIÓN",Exitosa TV
 http://190.119.178.46:8000/play/a0b3
-#EXTINF:-1 tvg-id="La Rosa de Guadalupe" tvg-name="La Rosa de Guadalupe" tvg-logo="https://img.freepik.com/photos-premium/dessins-mere-dieu-pour-da-virgen-guadalupe-sainte-rose-lima_790062-4741.jpg" group-title="TELEVISIÓN", La Rosa de Guadalupe
+#EXTINF:-1 tvg-id="La Rosa de Guadalupe" tvg-name="La Rosa de Guadalupe" tvg-logo="https://img.freepik.com/photos-premium/dessins-mere-dieu-pour-da-virgen-guadalupe-sainte-rose-lima_790062-4741.jpg" group-title="TELEVISIÓN",La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="TELEVISIÓN", Tlnovelas
+#EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="TELEVISIÓN",Tlnovelas
 http://bantel.iptvperu.tv:1935/transcoder4-srt/TL_Novelas.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/2181px-Las_Estrellas_logo_%282016%29.svg.png" group-title="TELEVISIÓN", Las Estrellas
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/2181px-Las_Estrellas_logo_%282016%29.svg.png" group-title="TELEVISIÓN",Las Estrellas
 http://190.61.57.2:1010/play/a03a/index.m3u8
-#EXTINF:-1 tvg-id="TV Perú Noticias" tvg-name="TV Perú Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="TELEVISIÓN", TV Perú Noticias
+#EXTINF:-1 tvg-id="TV Perú Noticias" tvg-name="TV Perú Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="TELEVISIÓN",TV Perú Noticias
 http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53SujzzvZrCZ04rpYthdjbkw
-#EXTINF:-1 tvg-id="TV Perú Internacional" tvg-name="TV Perú Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="TELEVISIÓN", TV Perú Internacional
+#EXTINF:-1 tvg-id="TV Perú Internacional" tvg-name="TV Perú Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="TELEVISIÓN",TV Perú Internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
-#EXTINF:-1 tvg-id="ATV+" tvg-name="ATV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="TELEVISIÓN", ATV+
+#EXTINF:-1 tvg-id="ATV+" tvg-name="ATV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="TELEVISIÓN",ATV+
 http://181.119.66.30:8000/play/ATV/index.m3u8
-#EXTINF:-1 tvg-id="ATV Sur" tvg-name="ATV Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="TELEVISIÓN", ATV Sur
+#EXTINF:-1 tvg-id="ATV Sur" tvg-name="ATV Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="TELEVISIÓN",ATV Sur
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal IPe" tvg-name="Canal IPe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Canal_IPe_Abril_2022.png" group-title="TELEVISIÓN", Canal IPe
+#EXTINF:-1 tvg-id="Canal IPe" tvg-name="Canal IPe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Canal_IPe_Abril_2022.png" group-title="TELEVISIÓN",Canal IPe
 http://bantel.iptvperu.tv:1935/transcoderip/ipe_t1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1275px-Cartoon_Network_2010_logo.svg.png" group-title="TELEVISIÓN", Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1275px-Cartoon_Network_2010_logo.svg.png" group-title="TELEVISIÓN",Cartoon Network
 http://190.61.57.2:1010/play/a025/index.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="TELEVISIÓN", Discovery Kids
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="TELEVISIÓN",Discovery Kids
 http://190.61.57.2:1010/play/a01w/index.m3u8
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1000px-Cartoonito_-_Logo_2021.svg.png" group-title="TELEVISIÓN", Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1000px-Cartoonito_-_Logo_2021.svg.png" group-title="TELEVISIÓN",Cartoonito
 http://190.61.57.2:1010/play/CARTOONITO/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/2560px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="TELEVISIÓN", Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/2560px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="TELEVISIÓN",Nickelodeon
 http://190.61.57.2:1010/play/a01h/index.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/3000px-2019_Disney_Channel_logo.svg.png" group-title="TELEVISIÓN", Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/3000px-2019_Disney_Channel_logo.svg.png" group-title="TELEVISIÓN",Disney Channel
 http://190.61.57.2:1010/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Disney_Junior_2019_logo.png" group-title="TELEVISIÓN", Disney Junior
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Disney_Junior_2019_logo.png" group-title="TELEVISIÓN",Disney Junior
 http://190.61.57.2:1010/play/a04r/index.m3u8
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="TELEVISIÓN", Tooncast
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="TELEVISIÓN",Tooncast
 http://190.61.57.2:1010/play/a04p/index.m3u8
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png" group-title="TELEVISIÓN", Baby TV
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png" group-title="TELEVISIÓN",Baby TV
 http://190.61.57.2:1010/play/a04q/index.m3u8
-#EXTINF:-1 tvg-id="Lolly Kids" tvg-name="Lolly Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Lolly_Kids_TV_2018.svg/revision/latest?cb=20220608234257&path-prefix=es" group-title="TELEVISIÓN", Lolly Kids
+#EXTINF:-1 tvg-id="Lolly Kids" tvg-name="Lolly Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Lolly_Kids_TV_2018.svg/revision/latest?cb=20220608234257&path-prefix=es" group-title="TELEVISIÓN",Lolly Kids
 http://38.41.8.1:8000/play/a02n
-#EXTINF:-1 tvg-id="Teen Nick" tvg-name="Teen Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TeenNick_2023_Outlined_Logo.png" group-title="TELEVISIÓN", Teen Nick
+#EXTINF:-1 tvg-id="Teen Nick" tvg-name="Teen Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TeenNick_2023_Outlined_Logo.png" group-title="TELEVISIÓN",Teen Nick
 http://bantel.iptvperu.tv:1935/transcoder4-srt/nickteen.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="L1" tvg-name="L1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/2560px-L1-LOGO.svg.png" group-title="TELEVISIÓN", L1
+#EXTINF:-1 tvg-id="L1" tvg-name="L1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/2560px-L1-LOGO.svg.png" group-title="TELEVISIÓN",L1
 http://gotv.vip:8880/Kim1/Kim1/122388
-#EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/2560px-L1MAX-LOGO.svg.png" group-title="TELEVISIÓN", L1MAX
+#EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/2560px-L1MAX-LOGO.svg.png" group-title="TELEVISIÓN",L1MAX
 http://nxt.plus:8080/Belen/1234/130639
-#EXTINF:-1 tvg-id="TyC Sports " tvg-name="TyC Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="TELEVISIÓN", TyC Sports 
+#EXTINF:-1 tvg-id="TyC Sports " tvg-name="TyC Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="TELEVISIÓN",TyC Sports 
 http://190.61.57.2:1010/play/a05g
-#EXTINF:-1 tvg-id="ESPN 1" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="TELEVISIÓN", ESPN 1
+#EXTINF:-1 tvg-id="ESPN 1" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="TELEVISIÓN",ESPN 1
 http://190.119.178.46:8000/play/a00a
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="TELEVISIÓN", ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="TELEVISIÓN",ESPN 2
 http://190.119.178.46:8000/play/a007
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TELEVISIÓN", ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TELEVISIÓN",ESPN 3
 http://191.97.58.41:8001/play/a00j
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="TELEVISIÓN", ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="TELEVISIÓN",ESPN 4
 http://200.59.188.3:8000/play/a01z
-#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="TELEVISIÓN", ESPN 5
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="TELEVISIÓN",ESPN 5
 http://200.59.188.3:8000/play/a01j
-#EXTINF:-1 tvg-id="Monterrico TV" tvg-name="Monterrico TV" tvg-logo="https://hipodromodemonterrico.com.pe/generales_logos_hipodromos/logo_mont.gif" group-title="TELEVISIÓN", Monterrico TV
+#EXTINF:-1 tvg-id="Monterrico TV" tvg-name="Monterrico TV" tvg-logo="https://hipodromodemonterrico.com.pe/generales_logos_hipodromos/logo_mont.gif" group-title="TELEVISIÓN",Monterrico TV
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
-#EXTINF:-1 tvg-id="Oxígeno" tvg-name="Oxígeno" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Radio_Ox%C3%ADgeno_2021.svg/revision/latest/scale-to-width-down/1000?cb=20220705014922&path-prefix=es" group-title="RADIO", Oxígeno
+#EXTINF:-1 tvg-id="Oxígeno" tvg-name="Oxígeno" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Radio_Ox%C3%ADgeno_2021.svg/revision/latest/scale-to-width-down/1000?cb=20220705014922&path-prefix=es" group-title="RADIO",Oxígeno
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c?aid=5faaeb72f92d7b07dfe10181&pid=8TD4BjLtTRIbPonKF6KyduDZnjLlB5om&sid=1sjbP1nzkSfBs73atL3RhVGhIou9pSWw&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1697712512294&ot=U8AeRv4mLd7-P_rGE56axA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab0687bcd6c2389ee9480c&referer=https%3A%2F%2Fradiosperu.pe%2F&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
-#EXTINF:-1 tvg-id="Exitosa" tvg-name="Exitosa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Radio_Exitosa_2013.svg/revision/latest/scale-to-width-down/1000?cb=20220811004600&path-prefix=es" group-title="RADIO", Exitosa
+#EXTINF:-1 tvg-id="Exitosa" tvg-name="Exitosa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Radio_Exitosa_2013.svg/revision/latest/scale-to-width-down/1000?cb=20220811004600&path-prefix=es" group-title="RADIO",Exitosa
 https://exitosa.cusac.online/79525baf-b0f5-4013-a8bd-3c5c293c6561
-#EXTINF:-1 tvg-id="RPP" tvg-name="RPP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/RPP_2018.svg/revision/latest/scale-to-width-down/1000?cb=20220629033100&path-prefix=es" group-title="RADIO", RPP
+#EXTINF:-1 tvg-id="RPP" tvg-name="RPP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/RPP_2018.svg/revision/latest/scale-to-width-down/1000?cb=20220629033100&path-prefix=es" group-title="RADIO",RPP
 https://stream-156.zeno.fm/n0fc3vk78ehvv?zs=o9LAymxmR4SvSeTlWMOFpA
-#EXTINF:-1 tvg-id="Ritmo Romántica" tvg-name="Ritmo Romántica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Radio_Ritmo_Rom%C3%A1ntica_2019.svg/revision/latest/scale-to-width-down/1000?cb=20220803202725&path-prefix=es" group-title="RADIO", Ritmo Romántica
+#EXTINF:-1 tvg-id="Ritmo Romántica" tvg-name="Ritmo Romántica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Radio_Ritmo_Rom%C3%A1ntica_2019.svg/revision/latest/scale-to-width-down/1000?cb=20220803202725&path-prefix=es" group-title="RADIO",Ritmo Romántica
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC
-#EXTINF:-1 tvg-id="La Inolvidable" tvg-name="La Inolvidable" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Radio_La_Inolvidable_2015.svg/revision/latest/scale-to-width-down/1000?cb=20220803204003&path-prefix=es" group-title="RADIO", La Inolvidable
+#EXTINF:-1 tvg-id="La Inolvidable" tvg-name="La Inolvidable" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Radio_La_Inolvidable_2015.svg/revision/latest/scale-to-width-down/1000?cb=20220803204003&path-prefix=es" group-title="RADIO",La Inolvidable
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC?dist=20001
-#EXTINF:-1 tvg-id="Mágica" tvg-name="Mágica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Radio_M%C3%A1gica_2019.svg/revision/latest/scale-to-width-down/1000?cb=20220808202521&path-prefix=es" group-title="RADIO", Mágica
+#EXTINF:-1 tvg-id="Mágica" tvg-name="Mágica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Radio_M%C3%A1gica_2019.svg/revision/latest/scale-to-width-down/1000?cb=20220808202521&path-prefix=es" group-title="RADIO",Mágica
 http://playerservices.streamtheworld.com/api/livestream-redirect//MAG_SC
-#EXTINF:-1 tvg-id="Radiomar" tvg-name="Radiomar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Radiomar_2017.svg/revision/latest/scale-to-width-down/1000?cb=20220706023913&path-prefix=es" group-title="RADIO", Radiomar
+#EXTINF:-1 tvg-id="Radiomar" tvg-name="Radiomar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Radiomar_2017.svg/revision/latest/scale-to-width-down/1000?cb=20220706023913&path-prefix=es" group-title="RADIO",Radiomar
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR_SC
-#EXTINF:-1 tvg-id="Nueva Q" tvg-name="Nueva Q" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Radio_Nueva_Q_2019.svg/revision/latest/scale-to-width-down/1000?cb=20220808201016&path-prefix=es" group-title="RADIO", Nueva Q
+#EXTINF:-1 tvg-id="Nueva Q" tvg-name="Nueva Q" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Radio_Nueva_Q_2019.svg/revision/latest/scale-to-width-down/1000?cb=20220808201016&path-prefix=es" group-title="RADIO",Nueva Q
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC
-#EXTINF:-1 tvg-id="Z Rock & Pop" tvg-name="Z Rock & Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Z_Rock_%26_Pop_2010.svg/revision/latest/scale-to-width-down/1000?cb=20220811010652&path-prefix=es" group-title="RADIO", Z Rock & Pop
+#EXTINF:-1 tvg-id="Z Rock & Pop" tvg-name="Z Rock & Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Z_Rock_%26_Pop_2010.svg/revision/latest/scale-to-width-down/1000?cb=20220811010652&path-prefix=es" group-title="RADIO",Z Rock & Pop
 https://stream.cusac.online/885-26fea3af-c83a-4d7e
-#EXTINF:-1 tvg-id="Felicidad" tvg-name="Felicidad" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Radio_Felicidad_2013.svg/revision/latest/scale-to-width-down/1000?cb=20220705010557&path-prefix=es" group-title="RADIO", Felicidad
+#EXTINF:-1 tvg-id="Felicidad" tvg-name="Felicidad" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Radio_Felicidad_2013.svg/revision/latest/scale-to-width-down/1000?cb=20220705010557&path-prefix=es" group-title="RADIO",Felicidad
 https://26273.live.streamtheworld.com/XEFRAMAAC_SC
-#EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Radio_Panamericana_2022.svg/revision/latest/scale-to-width-down/1000?cb=20231206215231&path-prefix=es" group-title="RADIO", Panamericana
+#EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Radio_Panamericana_2022.svg/revision/latest/scale-to-width-down/1000?cb=20231206215231&path-prefix=es" group-title="RADIO",Panamericana
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539?aid=658ddcc0b2c7835d48fee06d&pid=zXKd6u7P87EiWoK1ehUGRwi8bagVqbW7&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1708170129466&ot=a84Nf4wBpIk4nsTVd6H7dw&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b62dded1380470f4e539&referer=https%3A%2F%2Fwww.epafm.pe%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
-#EXTINF:-1 tvg-id="Moda" tvg-name="Moda" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Radio_Moda_2018.svg/revision/latest/scale-to-width-down/1000?cb=20220803205936&path-prefix=es" group-title="RADIO", Moda
+#EXTINF:-1 tvg-id="Moda" tvg-name="Moda" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Radio_Moda_2018.svg/revision/latest/scale-to-width-down/1000?cb=20220803205936&path-prefix=es" group-title="RADIO",Moda
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC
-#EXTINF:-1 tvg-id="Karibeña" tvg-name="Karibeña" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Radio_Karibe%C3%B1a.svg/revision/latest/scale-to-width-down/1000?cb=20220809154135&path-prefix=es" group-title="RADIO", Karibeña
+#EXTINF:-1 tvg-id="Karibeña" tvg-name="Karibeña" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Radio_Karibe%C3%B1a.svg/revision/latest/scale-to-width-down/1000?cb=20220809154135&path-prefix=es" group-title="RADIO",Karibeña
 https://stream.cusac.online/26fea3af-c83a-4d7e-9d15
-#EXTINF:-1 tvg-id="Studio 92" tvg-name="Studio 92" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Studio_92_2013.svg/revision/latest/scale-to-width-down/1000?cb=20220701151409&path-prefix=es" group-title="RADIO", Studio 92
+#EXTINF:-1 tvg-id="Studio 92" tvg-name="Studio 92" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Studio_92_2013.svg/revision/latest/scale-to-width-down/1000?cb=20220701151409&path-prefix=es" group-title="RADIO",Studio 92
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea?aid=5faaeb72f92d7b07dfe10181&pid=nGqN8qaPoMd3Qlpx5VkAS2cvMVZeAFmO&sid=1sjbP1nzkSfBs73atL3RhVGhIou9pSWw&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1697712149764&ot=ykX5sE0fTENzvgLG1nGeXA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&referer=https%3A%2F%2Fradiosperu.pe%2F&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
-#EXTINF:-1 tvg-id="Corazón" tvg-name="Corazón" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Radio_Coraz%C3%B3n_2018.svg/revision/latest/scale-to-width-down/1000?cb=20220704164557&path-prefix=es" group-title="RADIO", Corazón
+#EXTINF:-1 tvg-id="Corazón" tvg-name="Corazón" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Radio_Coraz%C3%B3n_2018.svg/revision/latest/scale-to-width-down/1000?cb=20220704164557&path-prefix=es" group-title="RADIO",Corazón
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f?aid=5faaeb72f92d7b07dfe10181&pid=fygorKayYivBVQrKQA8KqwMnkwJY4z4l&sid=1sjbP1nzkSfBs73atL3RhVGhIou9pSWw&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1697712244290&ot=A1yosuo0aFO-dnZjfsZRog&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&referer=https%3A%2F%2Fradiosperu.pe%2F&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
-#EXTINF:-1 tvg-id="Planeta" tvg-name="Planeta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Radio_Planeta_2013.svg/revision/latest/scale-to-width-down/1000?cb=20220803015201&path-prefix=es" group-title="RADIO", Planeta
+#EXTINF:-1 tvg-id="Planeta" tvg-name="Planeta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Radio_Planeta_2013.svg/revision/latest/scale-to-width-down/1000?cb=20220803015201&path-prefix=es" group-title="RADIO",Planeta
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC
-#EXTINF:-1 tvg-id="La Kalle" tvg-name="La Kalle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/LOGO-LA-KALLE-ME-GUSTA.png" group-title="RADIO", La Kalle
+#EXTINF:-1 tvg-id="La Kalle" tvg-name="La Kalle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/LOGO-LA-KALLE-ME-GUSTA.png" group-title="RADIO",La Kalle
 https://stream.cusac.online/a8bd-3c5c293c6561
-#EXTINF:-1 tvg-id="PBO" tvg-name="PBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/PBO_Radio.svg/revision/latest/scale-to-width-down/1000?cb=20220628151139&path-prefix=es" group-title="RADIO", PBO
+#EXTINF:-1 tvg-id="PBO" tvg-name="PBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/PBO_Radio.svg/revision/latest/scale-to-width-down/1000?cb=20220628151139&path-prefix=es" group-title="RADIO",PBO
 https://n08.radiojar.com/2fse67zuv8hvv?rj-ttl=5&rj-tok=AAABhiWMKwIABjORIJPbXUJ4kg
-#EXTINF:-1 tvg-id="La Zona" tvg-name="La Zona" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Radio_La_Zona_2018.svg/revision/latest/scale-to-width-down/1000?cb=20220705003703&path-prefix=es" group-title="RADIO", La Zona
+#EXTINF:-1 tvg-id="La Zona" tvg-name="La Zona" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Radio_La_Zona_2018.svg/revision/latest/scale-to-width-down/1000?cb=20220705003703&path-prefix=es" group-title="RADIO",La Zona
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5?aid=5faaeb72f92d7b07dfe10181&pid=sV9sFat6DZCsvL6yFENcp7n1eAygjKn8&sid=1sjbP1nzkSfBs73atL3RhVGhIou9pSWw&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1697712081985&ot=94-ySQ45D-482GsTuxZkAg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&referer=https%3A%2F%2Fradiosperu.pe%2F&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
-#EXTINF:-1 tvg-id="Onda Cero" tvg-name="Onda Cero" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Onda_Cero_2009.png/revision/latest/scale-to-width-down/1000?cb=20201004012147&path-prefix=es" group-title="RADIO", Onda Cero
+#EXTINF:-1 tvg-id="Onda Cero" tvg-name="Onda Cero" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Onda_Cero_2009.png/revision/latest/scale-to-width-down/1000?cb=20201004012147&path-prefix=es" group-title="RADIO",Onda Cero
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8cc?aid=658ddcc0b2c7835d48fee06d&pid=MpmIQHJm8YU2eC75ePxD0flrYMSl58Rl&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1708170226172&ot=TE21wOgwlIzvrpf2KL9GzQ&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b65ab398c90871aff8cc&referer=https%3A%2F%2Fwww.epafm.pe%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
-#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Radio_Disney_Per%C3%BA_2023.png/revision/latest?cb=20231027203951&path-prefix=es" group-title="RADIO", Disney
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Radio_Disney_Per%C3%BA_2023.png/revision/latest?cb=20231027203951&path-prefix=es" group-title="RADIO",Disney
 https://27343.live.streamtheworld.com/DISNEY_PER_LMAAC/HLS/playlist.m3u8?dist=web-radiodisney
-#EXTINF:-1 tvg-id="Santa Rosa" tvg-name="Santa Rosa" tvg-logo="https://cdn-profiles.tunein.com/s140935/images/logod.jpg?t=636706450712900000" group-title="RADIO", Santa Rosa
+#EXTINF:-1 tvg-id="Santa Rosa" tvg-name="Santa Rosa" tvg-logo="https://cdn-profiles.tunein.com/s140935/images/logod.jpg?t=636706450712900000" group-title="RADIO",Santa Rosa
 https://c21.radioboss.fm:8073/streammain
