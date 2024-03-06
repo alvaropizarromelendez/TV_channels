@@ -78,7 +78,7 @@ http://nxt.plus:8080/Belen/1234/130639
 #EXTINF:-1 tvg-id="TyC Sports " tvg-name="TyC Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="TELEVISIÓN",TyC Sports 
 http://190.61.57.2:1010/play/a05g
 #EXTINF:-1 tvg-id="ESPN 1" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="TELEVISIÓN",ESPN 1
-http://190.119.178.46:8000/play/a00a
+http://bantel.iptvperu.tv:1935/deportes_ll/ESPN_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="TELEVISIÓN",ESPN 2
 http://190.119.178.46:8000/play/a007
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TELEVISIÓN",ESPN 3
