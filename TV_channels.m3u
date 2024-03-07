@@ -135,3 +135,41 @@ https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8
 https://27343.live.streamtheworld.com/DISNEY_PER_LMAAC/HLS/playlist.m3u8?dist=web-radiodisney
 #EXTINF:-1 tvg-id="Santa Rosa" tvg-name="Santa Rosa" tvg-logo="https://cdn-profiles.tunein.com/s140935/images/logod.jpg?t=636706450712900000" group-title="RADIO",Santa Rosa
 https://c21.radioboss.fm:8073/streammain
+#EXTINF:-1 tvg-id="EP01" tvg-name="EP01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP01
+https://vk.com/video827764561_456239042
+#EXTINF:-1 tvg-id="EP02" tvg-name="EP02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP02
+https://vk.com/video827764561_456239043
+#EXTINF:-1 tvg-id="EP03" tvg-name="EP03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP03
+https://vk.com/video827764561_456239044
+#EXTINF:-1 tvg-id="EP04" tvg-name="EP04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP04
+https://vk.com/video827764561_456239045
+#EXTINF:-1 tvg-id="EP05" tvg-name="EP05" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP05
+https://vk.com/video827764561_456239046
+#EXTINF:-1 tvg-id="EP06" tvg-name="EP06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP06
+https://vk.com/video827764561_456239047
+#EXTINF:-1 tvg-id="EP07" tvg-name="EP07" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP07
+https://vk.com/video827764561_456239048
+#EXTINF:-1 tvg-id="EP08" tvg-name="EP08" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP08
+https://vk.com/video827764561_456239050
+#EXTINF:-1 tvg-id="EP09" tvg-name="EP09" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP09
+https://vk.com/video827764561_456239051
+#EXTINF:-1 tvg-id="EP10" tvg-name="EP10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP10
+https://vk.com/video827764561_456239052
+#EXTINF:-1 tvg-id="EP11" tvg-name="EP11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP11
+https://vk.com/video827764561_456239053
+#EXTINF:-1 tvg-id="EP12" tvg-name="EP12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP12
+https://vk.com/video827764561_456239054
+#EXTINF:-1 tvg-id="EP13" tvg-name="EP13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP13
+https://vk.com/video827764561_456239055
+#EXTINF:-1 tvg-id="EP14" tvg-name="EP14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP14
+https://vk.com/video827764561_456239056
+#EXTINF:-1 tvg-id="EP15" tvg-name="EP15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP15
+https://vk.com/video827764561_456239057
+#EXTINF:-1 tvg-id="EP16" tvg-name="EP16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP16
+https://vk.com/video827764561_456239058
+#EXTINF:-1 tvg-id="EP17" tvg-name="EP17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP17
+https://vk.com/video827764561_456239063
+#EXTINF:-1 tvg-id="DUNE 1" tvg-name="DUNE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dune_2021_logo.png" group-title="DUNE",DUNE 1
+https://videospublicosperu.s3.amazonaws.com/DUNE+1.mp4
+#EXTINF:-1 tvg-id="DUNE 2" tvg-name="DUNE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dune_2021_logo.png" group-title="DUNE",DUNE 2
+https://videospublicosperu.s3.amazonaws.com/DUNE+2.mp4
