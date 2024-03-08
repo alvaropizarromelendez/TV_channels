@@ -135,10 +135,12 @@ https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8
 https://27343.live.streamtheworld.com/DISNEY_PER_LMAAC/HLS/playlist.m3u8?dist=web-radiodisney
 #EXTINF:-1 tvg-id="Santa Rosa" tvg-name="Santa Rosa" tvg-logo="https://cdn-profiles.tunein.com/s140935/images/logod.jpg?t=636706450712900000" group-title="RADIO",Santa Rosa
 https://c21.radioboss.fm:8073/streammain
-#EXTINF:-1 tvg-id="DUNE 1" tvg-name="DUNE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dune_2021_logo.png" group-title="DUNE",DUNE 1
+#EXTINF:-1 tvg-id="DUNE 1" tvg-name="DUNE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dune_2021_logo.png" group-title="PELÍCULA",DUNE 1
 https://videospublicosperu.s3.amazonaws.com/DUNE+1.mp4
-#EXTINF:-1 tvg-id="DUNE 2" tvg-name="DUNE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dune_2021_logo.png" group-title="DUNE",DUNE 2
+#EXTINF:-1 tvg-id="DUNE 2" tvg-name="DUNE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dune_2021_logo.png" group-title="PELÍCULA",DUNE 2
 https://videospublicosperu.s3.amazonaws.com/DUNE+2.mp4
+#EXTINF:-1 tvg-id="ANYONE BUT YOU" tvg-name="ANYONE BUT YOU" tvg-logo="https://www.anyone-but-you-tix.ca/images/tt.png" group-title="PELÍCULA",ANYONE BUT YOU
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/05671/ycker1p359tz_h/master.m3u8?t=KcdzoWsiPP5A7Gw2HpkmZvTQ6hK6hRHVFKllfAPAgB8&s=1709931061&e=43200&f=28356774&srv=35&asn=6147&sp=2000
 #EXTINF:-1 tvg-id="EP01" tvg-name="EP01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP01
 https://cdnst59.tokyvideo.com/videos/496/496879/mp4/8e0e805c785556ea081e17b21979c7b689a1f4e9c09292faf87cd0169b37b285.mp4?secure=Sk0heJYFLj6yEABtizrE9g%3D%3D%2C1709948682
 #EXTINF:-1 tvg-id="EP02" tvg-name="EP02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP02
@@ -173,5 +175,3 @@ https://cdnst64.tokyvideo.com/videos/518/518619/mp4/ef124def9fd9df3ac258c36540e7
 https://cdnst65.tokyvideo.com/videos/519/519910/mp4/36f2c757a3cd69e9e80d8b5d68f71841b669cd4b5f874364a4f94af5457ab562.mp4?secure=3XOTYh4jComUS8yD1Cwlxw%3D%3D%2C1709950375
 #EXTINF:-1 tvg-id="EP17" tvg-name="EP17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP17
 https://cdnst65.tokyvideo.com/videos/520/520481/mp4/07bae86f0f6a2cfd8738a03750df5a00dcc2201bad249d34b5e3845d51108830.mp4?secure=tbUtOb5sicjyFR7QY3G8ZA%3D%3D%2C1709948632
-#EXTINF:-1 tvg-id="nan" tvg-name="nan" tvg-logo="nan" group-title="nan",nan
-nan
