@@ -141,6 +141,8 @@ https://videospublicosperu.s3.amazonaws.com/DUNE+1.mp4
 https://videospublicosperu.s3.amazonaws.com/DUNE+2.mp4
 #EXTINF:-1 tvg-id="ANYONE BUT YOU" tvg-name="ANYONE BUT YOU" tvg-logo="https://www.anyone-but-you-tix.ca/images/tt.png" group-title="PELÍCULA",ANYONE BUT YOU
 https://be6721.rcr72.waw04.cdn112.com/hls2/01/05671/ycker1p359tz_h/master.m3u8?t=KcdzoWsiPP5A7Gw2HpkmZvTQ6hK6hRHVFKllfAPAgB8&s=1709931061&e=43200&f=28356774&srv=35&asn=6147&sp=2000
+#EXTINF:-1 tvg-id="EL DRAGÓN ROJO" tvg-name="EL DRAGÓN ROJO" tvg-logo="https://www.filomusica.com/filo34/red.jpg" group-title="PELÍCULA",EL DRAGÓN ROJO
+https://cdnst47.tokyvideo.com/videos/446/446882/mp4/2529aa7021941259e50a1baa88faa2206e2f0939146c9d61f680cd9f22e224e4.mp4?secure=hCQlS03rUbVWqohxUd_3ZQ%3D%3D%2C1710117735
 #EXTINF:-1 tvg-id="EP01" tvg-name="EP01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP01
 https://cdnst59.tokyvideo.com/videos/496/496879/mp4/8e0e805c785556ea081e17b21979c7b689a1f4e9c09292faf87cd0169b37b285.mp4?secure=Sk0heJYFLj6yEABtizrE9g%3D%3D%2C1709948682
 #EXTINF:-1 tvg-id="EP02" tvg-name="EP02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",EP02
