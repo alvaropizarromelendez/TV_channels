@@ -132,4 +132,22 @@ https://stream.cusac.online/a8bd-3c5c293c6561
 #EXTINF:-1 tvg-id="PBO" tvg-name="PBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/PBO_Radio.svg/revision/latest/scale-to-width-down/1000?cb=20220628151139&path-prefix=es" group-title="RADIO",PBO
 https://n08.radiojar.com/2fse67zuv8hvv?rj-ttl=5&rj-tok=AAABhiWMKwIABjORIJPbXUJ4kg
 #EXTINF:-1 tvg-id="La Zona" tvg-name="La Zona" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Radio_La_Zona_2018.svg/revision/latest/scale-to-width-down/1000?cb=20220705003703&path-prefix=es" group-title="RADIO",La Zona
-https://ekisde.com
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5?aid=5faaeb72f92d7b07dfe10181&pid=sV9sFat6DZCsvL6yFENcp7n1eAygjKn8&sid=1sjbP1nzkSfBs73atL3RhVGhIou9pSWw&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1697712081985&ot=94-ySQ45D-482GsTuxZkAg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&referer=https%3A%2F%2Fradiosperu.pe%2F&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
+#EXTINF:-1 tvg-id="Onda Cero" tvg-name="Onda Cero" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Onda_Cero_2009.png/revision/latest/scale-to-width-down/1000?cb=20201004012147&path-prefix=es" group-title="RADIO",Onda Cero
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8cc?aid=658ddcc0b2c7835d48fee06d&pid=MpmIQHJm8YU2eC75ePxD0flrYMSl58Rl&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1708170226172&ot=TE21wOgwlIzvrpf2KL9GzQ&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b65ab398c90871aff8cc&referer=https%3A%2F%2Fwww.epafm.pe%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Radio_Disney_Per%C3%BA_2023.png/revision/latest?cb=20231027203951&path-prefix=es" group-title="RADIO",Disney
+https://27343.live.streamtheworld.com/DISNEY_PER_LMAAC/HLS/playlist.m3u8?dist=web-radiodisney
+#EXTINF:-1 tvg-id="Santa Rosa" tvg-name="Santa Rosa" tvg-logo="https://cdn-profiles.tunein.com/s140935/images/logod.jpg?t=636706450712900000" group-title="RADIO",Santa Rosa
+https://c21.radioboss.fm:8073/streammain
+#EXTINF:-1 tvg-id="DUNE 1" tvg-name="DUNE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dune_2021_logo.png" group-title="PELÍCULA",DUNE 1
+https://cdnst61.tokyvideo.com/videos/503/503875/mp4/091ad701e1b6fcaf263d4a6027a6039e1265f32b286701f3dafd2eba6f8c7e38.mp4?secure=e7xWCL7h4N5vFvyuKZXf5Q%3D%3D%2C1710292311
+#EXTINF:-1 tvg-id="DUNE 2" tvg-name="DUNE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dune_2021_logo.png" group-title="PELÍCULA",DUNE 2
+https://s1.goodstream.uno/c6358b74fe7c08f3?download_token=3dac7398b3bec793fc34710ebebc32b340d167baa107cdf4c45c89683861a726
+#EXTINF:-1 tvg-id="ANYONE BUT YOU" tvg-name="ANYONE BUT YOU" tvg-logo="https://www.anyone-but-you-tix.ca/images/tt.png" group-title="PELÍCULA",ANYONE BUT YOU
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/05671/ycker1p359tz_h/master.m3u8?t=KcdzoWsiPP5A7Gw2HpkmZvTQ6hK6hRHVFKllfAPAgB8&s=1709931061&e=43200&f=28356774&srv=35&asn=6147&sp=2000
+#EXTINF:-1 tvg-id="EL DRAGÓN ROJO" tvg-name="EL DRAGÓN ROJO" tvg-logo="https://www.filomusica.com/filo34/red.jpg" group-title="PELÍCULA",EL DRAGÓN ROJO
+https://cdnst14.tokyvideo.com/videos/255/255318/mp4/fd3231353ae54f6dd759c9fa06ab5e81c09afca5bfd5a89d1bcf97653dd23cb9.mp4?secure=UQRL_1JTwkEJMGkyyNJhhw%3D%3D%2C1710296338
+#EXTINF:-1 tvg-id="LA SOCIEDAD DE LA NIEVE" tvg-name="LA SOCIEDAD DE LA NIEVE" tvg-logo="https://www.accioncine.es/wp-content/uploads/2023/12/la-sociedad-de-la-nieve.jpg" group-title="PELÍCULA",LA SOCIEDAD DE LA NIEVE
+https://s1.goodstream.uno/b5bceea3fd1cd41f?download_token=51fc0d3af9e7c08a5657eb4e5d4f05103e3ee76774a2abd856ce81e9a884e5ec
+#EXTINF:-1 tvg-id="KUNG FU PANDA 4" tvg-name="KUNG FU PANDA 4" tvg-logo="https://www.bizcochito.es/Films/Movil/tt21692408.webp" group-title="PELÍCULA",KUNG FU PANDA 4
+https://s1.goodstream.uno/a3b12af755e4cbc3?download_token=579f867a2e9fcae0e657c109a0b2b0d96fa0911d08fdb70365d9160195a179c1
