@@ -83,11 +83,11 @@ http://38.56.220.254:8000/play/a01l
 http://38.56.220.254:8000/play/a01k
 #EXTINF:-1 tvg-id="TyC Sports " tvg-name="TyC Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="TELEVISIÓN",TyC Sports 
 http://190.119.178.44:8000/play/a01c
-#EXTINF:-1 tvg-id="Dsports" tvg-name="Dsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="TELEVISIÓN",Dsports
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="TELEVISIÓN",DSports
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330777
-#EXTINF:-1 tvg-id="Dsports 2" tvg-name="Dsports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="TELEVISIÓN",Dsports 2
+#EXTINF:-1 tvg-id="DSports 2" tvg-name="DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="TELEVISIÓN",DSports 2
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330779
-#EXTINF:-1 tvg-id="Dsports+" tvg-name="Dsports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="TELEVISIÓN",Dsports+
+#EXTINF:-1 tvg-id="DSports+" tvg-name="DSports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="TELEVISIÓN",DSports+
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330781
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="TELEVISIÓN",ESPN
 http://190.119.178.46:8000/play/a02j
