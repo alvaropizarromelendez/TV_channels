@@ -64,27 +64,27 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCKIDS/40-hls/live-media.m3
 #EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1000px-Cartoonito_-_Logo_2021.svg.png" group-title="TELEVISIÓN",Cartoonito
 http://138.59.177.34:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/2560px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="TELEVISIÓN",Nickelodeon
-http://190.61.57.2:1010/play/a01h/index.m3u8
+http://bantel.iptvperu.tv:1935/transcoder4-srt/nick.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/3000px-2019_Disney_Channel_logo.svg.png" group-title="TELEVISIÓN",Disney Channel
-http://190.61.57.2:1010/play/a01l/index.m3u8
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Disney_Junior_2019_logo.png" group-title="TELEVISIÓN",Disney Junior
-http://190.61.57.2:1010/play/a04r/index.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/disneyjr_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="TELEVISIÓN",Tooncast
-http://190.61.57.2:1010/play/a04p/index.m3u8
+http://138.59.177.34:8000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png" group-title="TELEVISIÓN",Baby TV
-http://190.61.57.2:1010/play/a04q/index.m3u8
+http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
 #EXTINF:-1 tvg-id="Lolly Kids" tvg-name="Lolly Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Lolly_Kids_TV_2018.svg/revision/latest?cb=20220608234257&path-prefix=es" group-title="TELEVISIÓN",Lolly Kids
 http://38.41.8.1:8000/play/a02n
 #EXTINF:-1 tvg-id="Teen Nick" tvg-name="Teen Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TeenNick_2023_Outlined_Logo.png" group-title="TELEVISIÓN",Teen Nick
 http://bantel.iptvperu.tv:1935/transcoder4-srt/nickteen.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="L1" tvg-name="L1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/2560px-L1-LOGO.svg.png" group-title="TELEVISIÓN",L1
-http://gotv.vip:8880/Kim1/Kim1/122388
-#EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/2560px-L1MAX-LOGO.svg.png" group-title="TELEVISIÓN",L1MAX
 http://38.56.220.254:8000/play/a01l
+#EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/2560px-L1MAX-LOGO.svg.png" group-title="TELEVISIÓN",L1MAX
+http://38.56.220.254:8000/play/a01k
 #EXTINF:-1 tvg-id="TyC Sports " tvg-name="TyC Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="TELEVISIÓN",TyC Sports 
-http://190.61.57.2:1010/play/a05g
+http://190.119.178.44:8000/play/a01c
 #EXTINF:-1 tvg-id="ESPN 1" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="TELEVISIÓN",ESPN 1
-http://bantel.iptvperu.tv:1935/deportes_ll/ESPN_t2.stream/playlist.m3u8
+http://190.119.178.46:8000/play/a02j
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="TELEVISIÓN",ESPN 2
 http://190.119.178.46:8000/play/a007
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TELEVISIÓN",ESPN 3
@@ -188,6 +188,6 @@ URL directa no encontrada
 #EXTINF:-1 tvg-id="CAP18" tvg-name="CAP18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP18
 URL directa no encontrada
 #EXTINF:-1 tvg-id="CAP19" tvg-name="CAP19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP19
-https://cdnst66.tokyvideo.com/videos/524/524756/mp4/ea0acf3a6ebc4812a21d72657fa0433cd1c6929dc4fe36dd7c2274e4b8802d95.mp4?secure=jAP_CllofMCuxJrNFuYeSg%3D%3D%2C1710467155
+https://cdnst66.tokyvideo.com/videos/524/524756/mp4/ea0acf3a6ebc4812a21d72657fa0433cd1c6929dc4fe36dd7c2274e4b8802d95.mp4?secure=MATKy0GzSx3PC6rus4eg6g%3D%3D%2C1710469000
 #EXTINF:-1 tvg-id="CAP20" tvg-name="CAP20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP20
 https://cdnst66.tokyvideo.com/videos/525/525727/mp4/4a7f183c44397d6f99580c126db87aae2caf08a92ab2950e3ae2efeb7415f094.mp4?secure=fNPWRPtkFWpiJCa_kvPBnQ%3D%3D%2C1710467491
