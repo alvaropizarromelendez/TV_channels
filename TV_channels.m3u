@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="La Tele" tvg-name="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/LaTele_Per%C3%BA_2018_Logo.png" group-title="TELEVISIÓN",La Tele
-http://bantel.iptvperu.tv:1935/transcoderip/latele_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/latele_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina Televisión" tvg-name="Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1842px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="TELEVISIÓN",Latina Televisión
 http://190.119.178.46:8000/play/a017
 #EXTINF:-1 tvg-id="Movistar Deportes" tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="TELEVISIÓN",Movistar Deportes
@@ -20,29 +20,29 @@ http://190.119.178.46:8000/play/a01k
 #EXTINF:-1 tvg-id="RPP TV" tvg-name="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Radio_Programas_del_Per%C3%BA_logo.svg/2048px-Radio_Programas_del_Per%C3%BA_logo.svg.png" group-title="TELEVISIÓN",RPP TV
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330726
 #EXTINF:-1 tvg-id="Congreso TV" tvg-name="Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Congreso_TV.png" group-title="TELEVISIÓN",Congreso TV
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1776729332&_cdn_timestamp=1708390913&_cdn_token=4858a953e2b99566d55566df198e96363e014073
+http://bantel.iptvperu.tv:1935/astralocal/CanalDelCongreso/playlist.m3u8
 #EXTINF:-1 tvg-id="Justicia TV" tvg-name="Justicia TV" tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="TELEVISIÓN",Justicia TV
-http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="Global Televisión" tvg-name="Global Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="TELEVISIÓN",Global Televisión
 http://191.97.58.41:8001/play/a00d
 #EXTINF:-1 tvg-id="Gol Perú" tvg-name="Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" group-title="TELEVISIÓN",Gol Perú
 http://190.108.85.20:9999/play/a00r
 #EXTINF:-1 tvg-id="PBO Digital" tvg-name="PBO Digital" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="TELEVISIÓN",PBO Digital
-https://ythls.armelin.one/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1829828268&_cdn_timestamp=1710396536&_cdn_token=d6433756cf639e9829710f793311eb6b37910393
 #EXTINF:-1 tvg-id="Willax Televisión" tvg-name="Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="TELEVISIÓN",Willax Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="Karibeña TV" tvg-name="Karibeña TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logokaribe%C3%B1atv.png" group-title="TELEVISIÓN",Karibeña TV
-http://bantel.iptvperu.tv:1935/transcoderip/karibena_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/karibena_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-name="Exitosa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="TELEVISIÓN",Exitosa TV
-http://190.119.178.46:8000/play/a0b3
+https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="La Rosa de Guadalupe" tvg-name="La Rosa de Guadalupe" tvg-logo="https://img.freepik.com/photos-premium/dessins-mere-dieu-pour-da-virgen-guadalupe-sainte-rose-lima_790062-4741.jpg" group-title="TELEVISIÓN",La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="TELEVISIÓN",Tlnovelas
-http://bantel.iptvperu.tv:1935/transcoder4-srt/TL_Novelas.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/TL_Novelas_t4/playlist.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/2181px-Las_Estrellas_logo_%282016%29.svg.png" group-title="TELEVISIÓN",Las Estrellas
-http://190.61.57.2:1010/play/a03a/index.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/Canal_LasEstrellas_t4/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Perú Noticias" tvg-name="TV Perú Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="TELEVISIÓN",TV Perú Noticias
-http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53SujzzvZrCZ04rpYthdjbkw
+http://bantel.iptvperu.tv:1935/transcoderip/tvperunoticias_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Perú Internacional" tvg-name="TV Perú Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="TELEVISIÓN",TV Perú Internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="ATV+" tvg-name="ATV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="TELEVISIÓN",ATV+
@@ -56,13 +56,13 @@ http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="TELEVISIÓN",TNT SERIES
 http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal IPe" tvg-name="Canal IPe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Canal_IPe_Abril_2022.png" group-title="TELEVISIÓN",Canal IPe
-http://bantel.iptvperu.tv:1935/transcoderip/ipe_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/ipe_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1275px-Cartoon_Network_2010_logo.svg.png" group-title="TELEVISIÓN",Cartoon Network
-http://190.61.57.2:1010/play/a025/index.m3u8
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="TELEVISIÓN",Discovery Kids
-http://190.61.57.2:1010/play/a01w/index.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCKIDS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCKIDS_stream_fa&_cdn_session=1825478557&_cdn_timestamp=1710396629&_cdn_token=3ec554c3d7d0d2f33ea304c44f14acd7500c73b4
 #EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1000px-Cartoonito_-_Logo_2021.svg.png" group-title="TELEVISIÓN",Cartoonito
-http://190.61.57.2:1010/play/CARTOONITO/index.m3u8
+http://138.59.177.34:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/2560px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="TELEVISIÓN",Nickelodeon
 http://190.61.57.2:1010/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/3000px-2019_Disney_Channel_logo.svg.png" group-title="TELEVISIÓN",Disney Channel
@@ -80,7 +80,7 @@ http://bantel.iptvperu.tv:1935/transcoder4-srt/nickteen.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="L1" tvg-name="L1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/2560px-L1-LOGO.svg.png" group-title="TELEVISIÓN",L1
 http://gotv.vip:8880/Kim1/Kim1/122388
 #EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/2560px-L1MAX-LOGO.svg.png" group-title="TELEVISIÓN",L1MAX
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/212885
+http://38.56.220.254:8000/play/a01l
 #EXTINF:-1 tvg-id="TyC Sports " tvg-name="TyC Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="TELEVISIÓN",TyC Sports 
 http://190.61.57.2:1010/play/a05g
 #EXTINF:-1 tvg-id="ESPN 1" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="TELEVISIÓN",ESPN 1
@@ -152,42 +152,42 @@ https://s1.goodstream.uno/b5bceea3fd1cd41f?download_token=51fc0d3af9e7c08a5657eb
 #EXTINF:-1 tvg-id="KUNG FU PANDA 4" tvg-name="KUNG FU PANDA 4" tvg-logo="https://www.bizcochito.es/Films/Movil/tt21692408.webp" group-title="PELÍCULA",KUNG FU PANDA 4
 https://s1.goodstream.uno/a3b12af755e4cbc3?download_token=579f867a2e9fcae0e657c109a0b2b0d96fa0911d08fdb70365d9160195a179c1
 #EXTINF:-1 tvg-id="CAP01" tvg-name="CAP01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP01
-https://cdnst59.tokyvideo.com/videos/496/496879/mp4/8e0e805c785556ea081e17b21979c7b689a1f4e9c09292faf87cd0169b37b285.mp4?secure=mni-p2Dw7T3kphkQo9ecRw%3D%3D%2C1710429144
+URL directa no encontrada
 #EXTINF:-1 tvg-id="CAP02" tvg-name="CAP02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP02
-https://cdnst59.tokyvideo.com/videos/497/497847/mp4/b6c3445bf1695570efd79100e425c0ad226264652169ecea9a1fab02350b3e59.mp4?secure=QlYGR55bc995QvtX6tfFSg%3D%3D%2C1710430897
+https://cdnst59.tokyvideo.com/videos/497/497847/mp4/b6c3445bf1695570efd79100e425c0ad226264652169ecea9a1fab02350b3e59.mp4?secure=YTKrnLuiWkC7ycr240QvYw%3D%3D%2C1710467925
 #EXTINF:-1 tvg-id="CAP03" tvg-name="CAP03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP03
-https://cdnst60.tokyvideo.com/videos/498/498790/mp4/a19e5e69c8afa8b500e2104e51be8d4306ff83deefafb5956a4c58a067087e3b.mp4?secure=0d--dwPTGngad4C0clw-2g%3D%3D%2C1710429363
+https://cdnst60.tokyvideo.com/videos/498/498790/mp4/a19e5e69c8afa8b500e2104e51be8d4306ff83deefafb5956a4c58a067087e3b.mp4?secure=jYbl4AOjYtUUxPCcmV-X4Q%3D%3D%2C1710468119
 #EXTINF:-1 tvg-id="CAP04" tvg-name="CAP04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP04
-https://cdnst60.tokyvideo.com/videos/499/499993/mp4/bbe16b54a3944e1e6a8976b10fa00fb55e73522ecd8a39413b734a1876f61d81.mp4?secure=d6q1thcq0DfCANRtkaEzPA%3D%3D%2C1710430899
+https://cdnst60.tokyvideo.com/videos/499/499993/mp4/bbe16b54a3944e1e6a8976b10fa00fb55e73522ecd8a39413b734a1876f61d81.mp4?secure=YLzYCvLB2P-oM89Yjj4ktA%3D%3D%2C1710468120
 #EXTINF:-1 tvg-id="CAP05" tvg-name="CAP05" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP05
-https://cdnst61.tokyvideo.com/videos/503/503142/mp4/11aa16621d33ff462be4840729693114d8821e555611b014fff63df159109c6c.mp4?secure=deyp_mNwK2cc7UXG8jy6FQ%3D%3D%2C1710430900
+URL directa no encontrada
 #EXTINF:-1 tvg-id="CAP06" tvg-name="CAP06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP06
-https://cdnst61.tokyvideo.com/videos/504/504196/mp4/1b78a0c33e14dcc4f8e6e47f716db5f4f5a95a7619f3bf50961146e0b5da6e84.mp4?secure=v9FwRECc-mST1_NWgBoQvQ%3D%3D%2C1710430901
+https://cdnst61.tokyvideo.com/videos/504/504196/mp4/1b78a0c33e14dcc4f8e6e47f716db5f4f5a95a7619f3bf50961146e0b5da6e84.mp4?secure=x6uYcBcJ7m2wEyj4MtRsVw%3D%3D%2C1710468122
 #EXTINF:-1 tvg-id="CAP07" tvg-name="CAP07" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP07
-https://cdnst61.tokyvideo.com/videos/505/505374/mp4/3be87615207e4703025d37d8cd824adf713fc46fa2875e0cffa834e3a9b6d00e.mp4?secure=X9pd6C2qtAdJD8Z8Gxb3Ig%3D%3D%2C1710430903
+https://cdnst61.tokyvideo.com/videos/505/505374/mp4/3be87615207e4703025d37d8cd824adf713fc46fa2875e0cffa834e3a9b6d00e.mp4?secure=H3ojNpEhAh5jTUkHFn5ytQ%3D%3D%2C1710468123
 #EXTINF:-1 tvg-id="CAP08" tvg-name="CAP08" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP08
-https://cdnst61.tokyvideo.com/videos/506/506465/mp4/35f84980c7dbdfa58624b81db7a012a0e2beaf0a2754210889f302d69eab8263.mp4?secure=mpzFPdEDIXvC1Aj2PAJnsA%3D%3D%2C1710430904
+https://cdnst61.tokyvideo.com/videos/506/506465/mp4/35f84980c7dbdfa58624b81db7a012a0e2beaf0a2754210889f302d69eab8263.mp4?secure=BVZlptCWIaBc4bK4-j1tXQ%3D%3D%2C1710468124
 #EXTINF:-1 tvg-id="CAP09" tvg-name="CAP09" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP09
-https://cdnst62.tokyvideo.com/videos/507/507414/mp4/2c6e3763fc75d5620047e8a784971d834d67988b1b7bc691bc82b445ecef516f.mp4?secure=cVxg_v_J9Tc9dzoRH6xk3Q%3D%3D%2C1710430905
+https://cdnst62.tokyvideo.com/videos/507/507414/mp4/2c6e3763fc75d5620047e8a784971d834d67988b1b7bc691bc82b445ecef516f.mp4?secure=lQ9cVeGVWZ0tz4MLM--bAA%3D%3D%2C1710468125
 #EXTINF:-1 tvg-id="CAP10" tvg-name="CAP10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP10
-https://cdnst63.tokyvideo.com/videos/510/510764/mp4/f0cfee2baba4553485aa6c9b5a005c3a409ad04d626f41b8424fb1886094ce15.mp4?secure=9Qip-OcgwWxFEaK45GoiqQ%3D%3D%2C1710430906
+https://cdnst63.tokyvideo.com/videos/510/510764/mp4/f0cfee2baba4553485aa6c9b5a005c3a409ad04d626f41b8424fb1886094ce15.mp4?secure=1HCeg6Ckf01br3Fvx9BchA%3D%3D%2C1710468126
 #EXTINF:-1 tvg-id="CAP11" tvg-name="CAP11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP11
-https://cdnst63.tokyvideo.com/videos/512/512138/mp4/555cf0c110cdc90cc10b055303443393c0dc0752d0c6b2278445a49bd4fab3ab.mp4?secure=Wx9eZTb24FJq01y_QSeAgA%3D%3D%2C1710430693
+https://cdnst63.tokyvideo.com/videos/512/512138/mp4/555cf0c110cdc90cc10b055303443393c0dc0752d0c6b2278445a49bd4fab3ab.mp4?secure=PqKfmXXspb2e2V2zH2qa3A%3D%3D%2C1710468077
 #EXTINF:-1 tvg-id="CAP12" tvg-name="CAP12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP12
-https://cdnst63.tokyvideo.com/videos/513/513374/mp4/90548f898395088c9882161ab514c94ac922b32c21ec9f19550beee89a9b0f05.mp4?secure=XtGnJKZBARkcxVtmElE1iA%3D%3D%2C1710430908
+https://cdnst63.tokyvideo.com/videos/513/513374/mp4/90548f898395088c9882161ab514c94ac922b32c21ec9f19550beee89a9b0f05.mp4?secure=S1fN1WTwNSKJ7dhAoHBLqA%3D%3D%2C1710468128
 #EXTINF:-1 tvg-id="CAP13" tvg-name="CAP13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP13
-https://cdnst63.tokyvideo.com/videos/514/514530/mp4/aae76842f692dd618ee0011ee827f314e04e84be411cc7e843b1b5dcf7ba7956.mp4?secure=e7tBN_xj1O7ElN24n9awcw%3D%3D%2C1710430909
+https://cdnst63.tokyvideo.com/videos/514/514530/mp4/aae76842f692dd618ee0011ee827f314e04e84be411cc7e843b1b5dcf7ba7956.mp4?secure=umAoZQpamWV-_BjlUOhwOw%3D%3D%2C1710468129
 #EXTINF:-1 tvg-id="CAP14" tvg-name="CAP14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP14
-https://cdnst64.tokyvideo.com/videos/515/515799/mp4/08e8b115ad4ea5616a6c655c206e6646e71966316fd95a7de1e7405958093cfc.mp4?secure=DtIaddQYaaS7cMpUqcXoXQ%3D%3D%2C1710430911
+URL directa no encontrada
 #EXTINF:-1 tvg-id="CAP15" tvg-name="CAP15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP15
-https://cdnst64.tokyvideo.com/videos/518/518619/mp4/ef124def9fd9df3ac258c36540e7084d27e5cbc0335e3d1a1eb689262f0ff120.mp4?secure=XZNnj-o6NB9r3ipgmm09GQ%3D%3D%2C1710430841
+URL directa no encontrada
 #EXTINF:-1 tvg-id="CAP16" tvg-name="CAP16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP16
-https://cdnst65.tokyvideo.com/videos/519/519910/mp4/36f2c757a3cd69e9e80d8b5d68f71841b669cd4b5f874364a4f94af5457ab562.mp4?secure=eyb3-_aLdDd6J-gHm0bz1Q%3D%3D%2C1710430352
+URL directa no encontrada
 #EXTINF:-1 tvg-id="CAP17" tvg-name="CAP17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP17
-https://cdnst65.tokyvideo.com/videos/520/520481/mp4/07bae86f0f6a2cfd8738a03750df5a00dcc2201bad249d34b5e3845d51108830.mp4?secure=RUBJo0VgGglC-u6sC-8a-g%3D%3D%2C1710430716
+URL directa no encontrada
 #EXTINF:-1 tvg-id="CAP18" tvg-name="CAP18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP18
-https://cdnst65.tokyvideo.com/videos/522/522381/mp4/4d9682ae3c000c28a2ea16dce08b5b9f15c874df3f2118f988a6b25f6b2fe624.mp4?secure=QJKqk4V8CdBOrsdoib_sbQ%3D%3D%2C1710430914
+URL directa no encontrada
 #EXTINF:-1 tvg-id="CAP19" tvg-name="CAP19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP19
-https://cdnst66.tokyvideo.com/videos/524/524756/mp4/ea0acf3a6ebc4812a21d72657fa0433cd1c6929dc4fe36dd7c2274e4b8802d95.mp4?secure=R7pK7XblUjicwhXIZTJbqw%3D%3D%2C1710430818
+https://cdnst66.tokyvideo.com/videos/524/524756/mp4/ea0acf3a6ebc4812a21d72657fa0433cd1c6929dc4fe36dd7c2274e4b8802d95.mp4?secure=jAP_CllofMCuxJrNFuYeSg%3D%3D%2C1710467155
 #EXTINF:-1 tvg-id="CAP20" tvg-name="CAP20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/El_Se%C3%B1or_de_los_Cielos.png" group-title="ESDLC",CAP20
-https://cdnst66.tokyvideo.com/videos/525/525727/mp4/4a7f183c44397d6f99580c126db87aae2caf08a92ab2950e3ae2efeb7415f094.mp4?secure=cLdcRAbc_QkwJJls5XxqTQ%3D%3D%2C1710430830
+https://cdnst66.tokyvideo.com/videos/525/525727/mp4/4a7f183c44397d6f99580c126db87aae2caf08a92ab2950e3ae2efeb7415f094.mp4?secure=fNPWRPtkFWpiJCa_kvPBnQ%3D%3D%2C1710467491
