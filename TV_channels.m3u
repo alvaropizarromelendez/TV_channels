@@ -98,7 +98,7 @@ http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330779
 #EXTINF:-1 tvg-id="DSports+" tvg-name="DSports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="TELEVISIÓN",DSports+
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330781
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="TELEVISIÓN",ESPN
-http://190.119.178.46:8000/play/a02j
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="TELEVISIÓN",ESPN 2
 http://190.119.178.46:8000/play/a007
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TELEVISIÓN",ESPN 3
