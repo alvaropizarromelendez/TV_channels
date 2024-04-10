@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="La Tele" tvg-name="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/LaTele_Per%C3%BA_2018_Logo.png" group-title="TELEVISIÓN",La Tele
-http://bantel.iptvperu.tv:1935/transcoderip/latele_t1/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t1/latele_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina Televisión" tvg-name="Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1842px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="TELEVISIÓN",Latina Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="Movistar Deportes" tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="TELEVISIÓN",Movistar Deportes
@@ -16,19 +16,19 @@ https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=v
 #EXTINF:-1 tvg-id="Canal N" tvg-name="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="TELEVISIÓN",Canal N
 http://190.95.220.212:8000/play/a059
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="TELEVISIÓN",ATV
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t6/atvmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RPP TV" tvg-name="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Radio_Programas_del_Per%C3%BA_logo.svg/2048px-Radio_Programas_del_Per%C3%BA_logo.svg.png" group-title="TELEVISIÓN",RPP TV
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330726
 #EXTINF:-1 tvg-id="Congreso TV" tvg-name="Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Congreso_TV.png" group-title="TELEVISIÓN",Congreso TV
-http://bantel.iptvperu.tv:1935/astralocal/CanalDelCongreso/playlist.m3u8
+http://bantel.iptvperu.tv:1935/astra/CanalDelCongreso/playlist.m3u8
 #EXTINF:-1 tvg-id="Justicia TV" tvg-name="Justicia TV" tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="TELEVISIÓN",Justicia TV
 http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="Global Televisión" tvg-name="Global Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="TELEVISIÓN",Global Televisión
-http://191.97.58.41:8001/play/a00d
+http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="Gol Perú" tvg-name="Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" group-title="TELEVISIÓN",Gol Perú
-http://190.108.85.20:9999/play/a00r
+http://190.61.55.186:1010/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="PBO Digital" tvg-name="PBO Digital" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="TELEVISIÓN",PBO Digital
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1829828268&_cdn_timestamp=1710396536&_cdn_token=d6433756cf639e9829710f793311eb6b37910393
+http://bantel.iptvperu.tv:1935/astra/PBO/playlist.m3u8
 #EXTINF:-1 tvg-id="Willax Televisión" tvg-name="Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="TELEVISIÓN",Willax Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="Karibeña TV" tvg-name="Karibeña TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logokaribe%C3%B1atv.png" group-title="TELEVISIÓN",Karibeña TV
