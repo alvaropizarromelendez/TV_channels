@@ -26,7 +26,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="Global Televisión" tvg-name="Global Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="TELEVISIÓN",Global Televisión
 http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="Gol Perú" tvg-name="Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" group-title="TELEVISIÓN",Gol Perú
-http://191.97.58.41:8001/play/a008
+http://38.43.151.206:8000/play/a036
 #EXTINF:-1 tvg-id="PBO Digital" tvg-name="PBO Digital" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="TELEVISIÓN",PBO Digital
 http://bantel.iptvperu.tv:1935/astra/PBO/playlist.m3u8
 #EXTINF:-1 tvg-id="Willax Televisión" tvg-name="Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="TELEVISIÓN",Willax Televisión
@@ -92,21 +92,21 @@ http://dns.k4livetv.com:80/ANDRESALM2412/50070/1070263
 #EXTINF:-1 tvg-id="TyC Sports " tvg-name="TyC Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="TELEVISIÓN",TyC Sports 
 http://190.119.178.44:8000/play/a01c
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="TELEVISIÓN",DSports
-http://38.43.151.206:8000/play/a04m
+http://home-playtv.com:8080/CarlosAL/HBGWY/310516
 #EXTINF:-1 tvg-id="DSports 2" tvg-name="DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="TELEVISIÓN",DSports 2
-http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330779
+http://dns.k4livetv.com:80/ANDRESALM2412/50070/589309
 #EXTINF:-1 tvg-id="DSports+" tvg-name="DSports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="TELEVISIÓN",DSports+
-http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330781
+http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/190736
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="TELEVISIÓN",ESPN
-http://190.119.178.46:8000/play/a02j
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="TELEVISIÓN",ESPN 2
-http://190.119.178.46:8000/play/a007
+http://190.61.55.186:1010/play/a01n
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TELEVISIÓN",ESPN 3
-http://191.97.58.41:8001/play/a00j
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="TELEVISIÓN",ESPN 4
 http://200.59.188.3:8000/play/a01z
 #EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="TELEVISIÓN",ESPN 5
-http://200.59.188.3:8000/play/a01j
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn5/playlist.m3u8
 #EXTINF:-1 tvg-id="Monterrico TV" tvg-name="Monterrico TV" tvg-logo="https://hipodromodemonterrico.com.pe/generales_logos_hipodromos/logo_mont.gif" group-title="TELEVISIÓN",Monterrico TV
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
 #EXTINF:-1 tvg-id="Oxígeno" tvg-name="Oxígeno" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Radio_Ox%C3%ADgeno_2021.svg/revision/latest/scale-to-width-down/1000?cb=20220705014922&path-prefix=es" group-title="RADIO",Oxígeno
