@@ -26,7 +26,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="Global Televisión" tvg-name="Global Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="TELEVISIÓN",Global Televisión
 http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="Gol Perú" tvg-name="Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" group-title="TELEVISIÓN",Gol Perú
-http://38.43.151.206:8000/play/a036
+https://21.tiofutbol.com/golperu/tracks-v1a1/mono.m3u8?remote=181.66.150.17&token=46ab318bac43217dee2cd07533b6feb4cacbf9fb-6c3432a370392ff7adfb43618ace90f4-1720923311-1720912511
 #EXTINF:-1 tvg-id="PBO Digital" tvg-name="PBO Digital" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="TELEVISIÓN",PBO Digital
 http://bantel.iptvperu.tv:1935/astra/PBO/playlist.m3u8
 #EXTINF:-1 tvg-id="Willax Televisión" tvg-name="Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="TELEVISIÓN",Willax Televisión
