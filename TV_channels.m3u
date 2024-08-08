@@ -107,6 +107,14 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
 http://200.59.188.3:8000/play/a01z
 #EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="TELEVISIÓN",ESPN 5
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn5/playlist.m3u8
+#EXTINF:-1 tvg-id="CLARO SPORTS" tvg-name="CLARO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title="TELEVISIÓN",CLARO SPORTS
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/247840
+#EXTINF:-1 tvg-id="CLARO SPORTS 2" tvg-name="CLARO SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title="TELEVISIÓN",CLARO SPORTS 2
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/247841
+#EXTINF:-1 tvg-id="CLARO SPORTS 3" tvg-name="CLARO SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title="TELEVISIÓN",CLARO SPORTS 3
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/247842
+#EXTINF:-1 tvg-id="CLARO SPORTS 4" tvg-name="CLARO SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title="TELEVISIÓN",CLARO SPORTS 4
+http://ultrapremium.cloud:8080/991092319tv/cma7z59wb/247843
 #EXTINF:-1 tvg-id="Monterrico TV" tvg-name="Monterrico TV" tvg-logo="https://hipodromodemonterrico.com.pe/generales_logos_hipodromos/logo_mont.gif" group-title="TELEVISIÓN",Monterrico TV
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
 #EXTINF:-1 tvg-id="Oxígeno" tvg-name="Oxígeno" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Radio_Ox%C3%ADgeno_2021.svg/revision/latest/scale-to-width-down/1000?cb=20220705014922&path-prefix=es" group-title="RADIO",Oxígeno
