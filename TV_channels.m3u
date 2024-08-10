@@ -163,3 +163,5 @@ https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8
 https://27343.live.streamtheworld.com/DISNEY_PER_LMAAC/HLS/playlist.m3u8?dist=web-radiodisney
 #EXTINF:-1 tvg-id="Santa Rosa" tvg-name="Santa Rosa" tvg-logo="https://cdn-profiles.tunein.com/s140935/images/logod.jpg?t=636706450712900000" group-title="RADIO",Santa Rosa
 https://c21.radioboss.fm:8073/streammain
+#EXTINF:-1 tvg-id="Romper el círculo (2024)" tvg-name="Romper el círculo (2024)" tvg-logo="https://pics.filmaffinity.com/it_ends_with_us-815379231-large.jpg" group-title="PELÍCULA",Romper el círculo (2024)
+https://be4235.rcr32.ams02.cdn112.com/hls2/01/06680/0p4zw97m40wu_h/index-v1-a1.m3u8?t=Xz4jl7yVN07eTLUfrNMf7GUqgtHloMZHI9j2MVR298g&s=1723330615&e=10800&f=33401758&srv=47&asn=271814&sp=4000
