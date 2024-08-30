@@ -2,17 +2,17 @@
 #EXTINF:-1 tvg-id="La Tele" tvg-name="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/LaTele_Per%C3%BA_2018_Logo.png" group-title="TELEVISIÓN",La Tele
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/la-tele/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina Televisión" tvg-name="Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1842px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="TELEVISIÓN",Latina Televisión
-https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+http://novared.pro:8080/MIERc0les101123/gMRSdRMgdHju/330714
 #EXTINF:-1 tvg-id="Movistar Deportes" tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="TELEVISIÓN",Movistar Deportes
 http://190.61.55.186:1010/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="América Televisión" tvg-name="América Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1467px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="TELEVISIÓN",América Televisión
-http://190.61.55.186:1010/play/a00y
+http://novared.pro:8080/MIERc0les101123/gMRSdRMgdHju/330712
 #EXTINF:-1 tvg-id="Panamericana Televisión" tvg-name="Panamericana Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg/1889px-Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg.png" group-title="TELEVISIÓN",Panamericana Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="Movistar Plus" tvg-name="Movistar Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="TELEVISIÓN",Movistar Plus
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/1070266
 #EXTINF:-1 tvg-id="TV Perú" tvg-name="TV Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/2560px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="TELEVISIÓN",TV Perú
-https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+http://novared.pro:8080/MIERc0les101123/gMRSdRMgdHju/330745
 #EXTINF:-1 tvg-id="Canal N" tvg-name="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="TELEVISIÓN",Canal N
 http://38.43.151.206:8000/play/a06c
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="TELEVISIÓN",ATV
@@ -30,11 +30,11 @@ http://181.176.172.66:9000/play/a02m
 #EXTINF:-1 tvg-id="PBO Digital" tvg-name="PBO Digital" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="TELEVISIÓN",PBO Digital
 http://bantel.iptvperu.tv:1935/astra/PBO/playlist.m3u8
 #EXTINF:-1 tvg-id="Willax Televisión" tvg-name="Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="TELEVISIÓN",Willax Televisión
-https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+http://novared.pro:8080/MIERc0les101123/gMRSdRMgdHju/330722
 #EXTINF:-1 tvg-id="Karibeña TV" tvg-name="Karibeña TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logokaribe%C3%B1atv.png" group-title="TELEVISIÓN",Karibeña TV
 http://bantel.iptvperu.tv:1935/transcoderip/karibena_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="Exitosa TV" tvg-name="Exitosa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="TELEVISIÓN",Exitosa TV
-https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+http://novared.pro:8080/MIERc0les101123/gMRSdRMgdHju/330743
 #EXTINF:-1 tvg-id="La Rosa de Guadalupe" tvg-name="La Rosa de Guadalupe" tvg-logo="https://img.freepik.com/photos-premium/dessins-mere-dieu-pour-da-virgen-guadalupe-sainte-rose-lima_790062-4741.jpg" group-title="TELEVISIÓN",La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="TELEVISIÓN",Tlnovelas
