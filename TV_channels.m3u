@@ -26,7 +26,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="Global Televisión" tvg-name="Global Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="TELEVISIÓN",Global Televisión
 http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="Gol Perú" tvg-name="Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" group-title="TELEVISIÓN",Gol Perú
-http://190.61.55.186:1010/play/a02f/index.m3u8
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="PBO Digital" tvg-name="PBO Digital" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="TELEVISIÓN",PBO Digital
 http://bantel.iptvperu.tv:1935/astra/PBO/playlist.m3u8
 #EXTINF:-1 tvg-id="Willax Televisión" tvg-name="Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="TELEVISIÓN",Willax Televisión
@@ -88,7 +88,7 @@ http://bantel.iptvperu.tv:1935/transcoder4-srt/nickteen.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="L1" tvg-name="L1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/2560px-L1-LOGO.svg.png" group-title="TELEVISIÓN",L1
 http://gotv.vip:8880/Kim1/Kim1/122388
 #EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/2560px-L1MAX-LOGO.svg.png" group-title="TELEVISIÓN",L1MAX
-http://38.43.151.206:8000/play/a069
+http://190.119.123.220:4000/play/liga1max/index.m3u8
 #EXTINF:-1 tvg-id="TyC Sports " tvg-name="TyC Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="TELEVISIÓN",TyC Sports 
 http://190.119.178.44:8000/play/a01c
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="TELEVISIÓN",DSports
